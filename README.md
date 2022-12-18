@@ -1,5 +1,7 @@
 # name-needed
 
+**Note: this is the archive of the full project before [The Great Closed Source-ning](https://domwillia.ms/closed-sourcening).**
+
 ![Build status](https://img.shields.io/github/workflow/status/DomWilliams0/name-needed/Build,%20test,%20release%20pre-alpha?label=build)
 [![Devlog](https://img.shields.io/badge/devlog-domwillia.ms-orange)](https://domwillia.ms)
 [![Lines](https://tokei.rs/b1/github/DomWilliams0/name-needed)](https://github.com/XAMPPRocky/tokei)
